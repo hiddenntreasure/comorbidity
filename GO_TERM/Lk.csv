@@ -1,0 +1,61 @@
+Unnamed: 0,GO_ID,Term,Annotated,Significant,Expected,Rank in KS,classic,KS
+1,GO:0042110,T cell activation,14,5,0.65,519,0.00011999999999999999,1.0
+2,GO:0098609,cell-cell adhesion,17,5,0.79,504,0.00036,0.99
+3,GO:1903037,regulation of leukocyte cell-cell adhesi...,10,4,0.46,520,0.00045999999999999996,1.0
+4,GO:0007159,leukocyte cell-cell adhesion,11,4,0.51,521,0.0007,1.0
+5,GO:0045785,positive regulation of cell adhesion,11,4,0.51,439,0.0007,0.89
+6,GO:0050863,regulation of T cell activation,11,4,0.51,514,0.0007,1.0
+7,GO:0002696,positive regulation of leukocyte activat...,12,4,0.55,522,0.00103,1.0
+8,GO:0022407,regulation of cell-cell adhesion,12,4,0.55,457,0.00103,0.92
+9,GO:0050867,positive regulation of cell activation,12,4,0.55,523,0.00103,1.0
+10,GO:0051251,positive regulation of lymphocyte activa...,12,4,0.55,524,0.00103,1.0
+11,GO:0046649,lymphocyte activation,21,5,0.97,525,0.00108,1.0
+12,GO:0050776,regulation of immune response,24,5,1.11,497,0.0021100000000000003,0.99
+13,GO:0007155,cell adhesion,26,5,1.2,385,0.0031100000000000004,0.74
+14,GO:0022610,biological adhesion,26,5,1.2,386,0.0031100000000000004,0.74
+15,GO:0051249,regulation of lymphocyte activation,17,4,0.79,526,0.004379999999999999,1.0
+16,GO:0030155,regulation of cell adhesion,18,4,0.83,458,0.00549,0.92
+17,GO:0002694,regulation of leukocyte activation,19,4,0.88,527,0.00678,1.0
+18,GO:0050865,regulation of cell activation,19,4,0.88,528,0.00678,1.0
+19,GO:0032944,regulation of mononuclear cell prolifera...,11,3,0.51,529,0.00997,1.0
+20,GO:0050670,regulation of lymphocyte proliferation,11,3,0.51,530,0.00997,1.0
+21,GO:0070663,regulation of leukocyte proliferation,12,3,0.55,531,0.01294,1.0
+22,GO:0002682,regulation of immune system process,37,5,1.71,518,0.01593,1.0
+23,GO:0032943,mononuclear cell proliferation,14,3,0.65,532,0.020319999999999998,1.0
+24,GO:0046651,lymphocyte proliferation,14,3,0.65,533,0.020319999999999998,1.0
+25,GO:0002684,positive regulation of immune system pro...,26,4,1.2,505,0.0219,0.99
+26,GO:0070661,leukocyte proliferation,15,3,0.69,534,0.02474,1.0
+27,GO:0006955,immune response,57,6,2.63,517,0.025,1.0
+28,GO:0050896,response to stimulus,144,10,6.66,357,0.02963,0.65
+29,GO:0002250,adaptive immune response,16,3,0.74,535,0.029660000000000002,1.0
+30,GO:0050778,positive regulation of immune response,16,3,0.74,536,0.029660000000000002,1.0
+1,GO:0034612,response to tumor necrosis factor,12,4,0.5,228,0.0009199999999999999,0.28800000000000003
+2,GO:0071356,cellular response to tumor necrosis fact...,12,4,0.5,229,0.0009199999999999999,0.28800000000000003
+3,GO:0061061,muscle structure development,25,5,1.04,436,0.00247,0.562
+4,GO:0007163,establishment or maintenance of cell pol...,10,3,0.42,1071,0.00628,1.0
+5,GO:0061013,regulation of mRNA catabolic process,11,3,0.46,880,0.00839,0.909
+6,GO:0000003,reproduction,51,6,2.12,685,0.0139,0.777
+7,GO:0022414,reproductive process,51,6,2.12,686,0.0139,0.777
+8,GO:0003006,developmental process involved in reprod...,37,5,1.54,448,0.01433,0.568
+9,GO:0051656,establishment of organelle localization,15,3,0.62,987,0.02071,0.9690000000000001
+10,GO:0017148,negative regulation of translation,16,3,0.66,607,0.02479,0.705
+11,GO:0071559,response to transforming growth factor b...,16,3,0.66,645,0.02479,0.743
+12,GO:0071560,cellular response to transforming growth...,16,3,0.66,646,0.02479,0.743
+13,GO:0010629,negative regulation of gene expression,95,8,3.95,526,0.030489999999999996,0.6409999999999999
+14,GO:0045596,negative regulation of cell differentiat...,31,4,1.29,125,0.034010000000000006,0.128
+15,GO:0007423,sensory organ development,18,3,0.75,50,0.03418,0.036000000000000004
+16,GO:0034249,negative regulation of cellular amide me...,18,3,0.75,1046,0.03418,0.9940000000000001
+17,GO:1903311,regulation of mRNA metabolic process,18,3,0.75,327,0.03418,0.429
+18,GO:0031331,positive regulation of cellular cataboli...,19,3,0.79,902,0.03949,0.924
+19,GO:0044703,multi-organism reproductive process,33,4,1.37,631,0.04178,0.727
+20,GO:0051640,organelle localization,20,3,0.83,1072,0.04519,1.0
+21,GO:0006401,RNA catabolic process,21,3,0.87,117,0.051289999999999995,0.12300000000000001
+22,GO:0006402,mRNA catabolic process,21,3,0.87,118,0.051289999999999995,0.12300000000000001
+23,GO:0007017,microtubule-based process,36,4,1.5,269,0.055220000000000005,0.348
+24,GO:0009896,positive regulation of catabolic process,22,3,0.91,719,0.05777,0.805
+25,GO:0051704,multi-organism process,37,4,1.54,903,0.06018,0.925
+26,GO:0010948,negative regulation of cell cycle proces...,10,2,0.42,388,0.06076,0.51
+27,GO:0014065,phosphatidylinositol 3-kinase signaling,10,2,0.42,1054,0.06076,0.995
+28,GO:0060485,mesenchyme development,10,2,0.42,40,0.06076,0.023
+29,GO:0043434,response to peptide hormone,23,3,0.96,1062,0.06464,0.9990000000000001
+30,GO:0071396,cellular response to lipid,23,3,0.96,132,0.06464,0.131

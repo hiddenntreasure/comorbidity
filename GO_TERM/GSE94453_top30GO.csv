@@ -1,0 +1,31 @@
+,GO_ID,Term,Annotated,Significant,Expected,Rank in KS,classic,KS
+1,GO:0034612,response to tumor necrosis factor,12,4,0.5,228,0.00092,0.288
+2,GO:0071356,cellular response to tumor necrosis fact...,12,4,0.5,229,0.00092,0.288
+3,GO:0061061,muscle structure development,25,5,1.04,436,0.00247,0.562
+4,GO:0007163,establishment or maintenance of cell pol...,10,3,0.42,1071,0.00628,1
+5,GO:0061013,regulation of mRNA catabolic process,11,3,0.46,880,0.00839,0.909
+6,GO:0000003,reproduction,51,6,2.12,685,0.0139,0.777
+7,GO:0022414,reproductive process,51,6,2.12,686,0.0139,0.777
+8,GO:0003006,developmental process involved in reprod...,37,5,1.54,448,0.01433,0.568
+9,GO:0051656,establishment of organelle localization,15,3,0.62,987,0.02071,0.969
+10,GO:0017148,negative regulation of translation,16,3,0.66,607,0.02479,0.705
+11,GO:0071559,response to transforming growth factor b...,16,3,0.66,645,0.02479,0.743
+12,GO:0071560,cellular response to transforming growth...,16,3,0.66,646,0.02479,0.743
+13,GO:0010629,negative regulation of gene expression,95,8,3.95,526,0.03049,0.641
+14,GO:0045596,negative regulation of cell differentiat...,31,4,1.29,125,0.03401,0.128
+15,GO:0007423,sensory organ development,18,3,0.75,50,0.03418,0.036
+16,GO:0034249,negative regulation of cellular amide me...,18,3,0.75,1046,0.03418,0.994
+17,GO:1903311,regulation of mRNA metabolic process,18,3,0.75,327,0.03418,0.429
+18,GO:0031331,positive regulation of cellular cataboli...,19,3,0.79,902,0.03949,0.924
+19,GO:0044703,multi-organism reproductive process,33,4,1.37,631,0.04178,0.727
+20,GO:0051640,organelle localization,20,3,0.83,1072,0.04519,1
+21,GO:0006401,RNA catabolic process,21,3,0.87,117,0.05129,0.123
+22,GO:0006402,mRNA catabolic process,21,3,0.87,118,0.05129,0.123
+23,GO:0007017,microtubule-based process,36,4,1.5,269,0.05522,0.348
+24,GO:0009896,positive regulation of catabolic process,22,3,0.91,719,0.05777,0.805
+25,GO:0051704,multi-organism process,37,4,1.54,903,0.06018,0.925
+26,GO:0010948,negative regulation of cell cycle proces...,10,2,0.42,388,0.06076,0.51
+27,GO:0014065,phosphatidylinositol 3-kinase signaling,10,2,0.42,1054,0.06076,0.995
+28,GO:0060485,mesenchyme development,10,2,0.42,40,0.06076,0.023
+29,GO:0043434,response to peptide hormone,23,3,0.96,1062,0.06464,0.999
+30,GO:0071396,cellular response to lipid,23,3,0.96,132,0.06464,0.131

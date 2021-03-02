@@ -1,0 +1,31 @@
+,GO_ID,Term,Annotated,Significant,Expected,Rank in KS,classic,KS
+1,GO:0007276,gamete generation,15,3,0.85,217,0.046,0.72
+2,GO:0019953,sexual reproduction,17,3,0.96,264,0.063,0.764
+3,GO:0032504,multicellular organism reproduction,18,3,1.01,282,0.073,0.783
+4,GO:0044703,multi-organism reproductive process,18,3,1.01,283,0.073,0.783
+5,GO:0048609,multicellular organismal reproductive pr...,18,3,1.01,284,0.073,0.783
+6,GO:0051704,multi-organism process,18,3,1.01,285,0.073,0.783
+7,GO:0009968,negative regulation of signal transducti...,33,4,1.86,401,0.105,0.87
+8,GO:0003006,developmental process involved in reprod...,21,3,1.18,269,0.107,0.771
+9,GO:0048856,anatomical structure development,139,11,7.83,366,0.117,0.85
+10,GO:0006364,rRNA processing,11,2,0.62,19,0.123,0.051
+11,GO:0007283,spermatogenesis,11,2,0.62,501,0.123,0.921
+12,GO:0016072,rRNA metabolic process,11,2,0.62,20,0.123,0.051
+13,GO:0048232,male gamete generation,11,2,0.62,502,0.123,0.921
+14,GO:0010648,negative regulation of cell communicatio...,36,4,2.03,332,0.134,0.831
+15,GO:0023057,negative regulation of signaling,36,4,2.03,333,0.134,0.831
+16,GO:0007600,sensory perception,12,2,0.68,433,0.142,0.888
+17,GO:0032501,multicellular organismal process,161,12,9.07,492,0.146,0.917
+18,GO:0007275,multicellular organism development,131,10,7.38,320,0.167,0.82
+19,GO:0007166,cell surface receptor signaling pathway,68,6,3.83,343,0.167,0.838
+20,GO:0008283,cell population proliferation,40,4,2.25,308,0.178,0.808
+21,GO:0032502,developmental process,150,11,8.45,428,0.183,0.886
+22,GO:0048519,negative regulation of biological proces...,151,11,8.51,171,0.19,0.628
+23,GO:0000003,reproduction,28,3,1.58,258,0.203,0.76
+24,GO:0022414,reproductive process,28,3,1.58,259,0.203,0.76
+25,GO:0051345,positive regulation of hydrolase activit...,28,3,1.58,148,0.203,0.58
+26,GO:0042254,ribosome biogenesis,15,2,0.85,30,0.204,0.091
+27,GO:0048585,negative regulation of response to stimu...,43,4,2.42,469,0.215,0.906
+28,GO:0048523,negative regulation of cellular process,138,10,7.77,112,0.217,0.488
+29,GO:0043547,positive regulation of GTPase activity,16,2,0.9,182,0.226,0.653
+30,GO:0001558,regulation of cell growth,17,2,0.96,497,0.247,0.918

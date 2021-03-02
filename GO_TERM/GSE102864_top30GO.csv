@@ -1,0 +1,31 @@
+,GO_ID,Term,Annotated,Significant,Expected,Rank in KS,classic,KS
+1,GO:0022610,biological adhesion,457,92,38.4,49,1.2E-16,5.6E-10
+2,GO:0007155,cell adhesion,453,91,38.06,53,2.1E-16,8.7E-10
+3,GO:0032501,multicellular organismal process,2287,276,192.16,7,4.6E-16,1.5E-15
+4,GO:0030198,extracellular matrix organization,152,46,12.77,1,2.2E-15,1.8E-19
+5,GO:0043062,extracellular structure organization,152,46,12.77,2,2.2E-15,1.8E-19
+6,GO:0040011,locomotion,623,108,52.35,32,1.1E-14,5.4E-11
+7,GO:0016477,cell migration,523,95,43.94,23,3.5E-14,1.9E-11
+8,GO:0006928,movement of cell or subcellular componen...,724,118,60.83,25,5.1E-14,2.2E-11
+9,GO:0048870,cell motility,565,97,47.47,33,7E-13,6.2E-11
+10,GO:0051674,localization of cell,565,97,47.47,34,7E-13,6.2E-11
+11,GO:0048856,anatomical structure development,1983,238,166.62,4,1.6E-12,7.4E-17
+12,GO:0007275,multicellular organism development,1810,221,152.08,3,4E-12,9.3E-18
+13,GO:0048869,cellular developmental process,1420,183,119.31,19,1.1E-11,2.2E-12
+14,GO:0032502,developmental process,2155,250,181.07,9,1.5E-11,3.5E-15
+15,GO:0048731,system development,1632,202,137.13,8,2.2E-11,2.1E-15
+16,GO:0008284,positive regulation of cell population p...,310,62,26.05,62,3.1E-11,9.3E-09
+17,GO:0030154,cell differentiation,1386,178,116.46,16,3.5E-11,1.6E-12
+18,GO:0042127,regulation of cell population proliferat...,545,90,45.79,24,5.4E-11,2.1E-11
+19,GO:0030334,regulation of cell migration,351,65,29.49,84,3.2E-10,2E-07
+20,GO:0048646,anatomical structure formation involved ...,400,70,33.61,94,8.4E-10,8.4E-07
+21,GO:2000145,regulation of cell motility,370,66,31.09,76,1.2E-09,7.5E-08
+22,GO:0040012,regulation of locomotion,379,67,31.84,67,1.3E-09,2.3E-08
+23,GO:0009653,anatomical structure morphogenesis,974,132,81.84,14,1.3E-09,7.7E-14
+24,GO:0001944,vasculature development,286,55,24.03,50,2.1E-09,7E-10
+25,GO:0072358,cardiovascular system development,290,55,24.37,57,3.5E-09,1.9E-09
+26,GO:0051270,regulation of cellular component movemen...,392,67,32.94,71,5.6E-09,4.3E-08
+27,GO:0030155,regulation of cell adhesion,244,47,20.5,155,3.2E-08,1.3E-05
+28,GO:0051239,regulation of multicellular organismal p...,1106,140,92.93,21,3.9E-08,2.6E-12
+29,GO:0006935,chemotaxis,216,43,18.15,109,4.8E-08,1.8E-06
+30,GO:0042330,taxis,216,43,18.15,110,4.8E-08,1.8E-06

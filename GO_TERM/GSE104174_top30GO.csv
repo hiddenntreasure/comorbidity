@@ -1,0 +1,31 @@
+,GO_ID,Term,Annotated,Significant,Expected,Rank in KS,classic,KS
+1,GO:0030593,neutrophil chemotaxis,11,3,0.16,194,0.00037,0.02545
+2,GO:0050900,leukocyte migration,50,5,0.71,497,0.00046,0.17168
+3,GO:0070098,chemokine-mediated signaling pathway,12,3,0.17,210,0.00049,0.03074
+4,GO:0071621,granulocyte chemotaxis,12,3,0.17,223,0.00049,0.03702
+5,GO:1990868,response to chemokine,12,3,0.17,211,0.00049,0.03074
+6,GO:1990869,cellular response to chemokine,12,3,0.17,212,0.00049,0.03074
+7,GO:1990266,neutrophil migration,13,3,0.18,241,0.00063,0.04437
+8,GO:0097530,granulocyte migration,14,3,0.2,283,0.0008,0.06422
+9,GO:0034341,response to interferon-gamma,20,3,0.28,66,0.00236,0.00083
+10,GO:0097529,myeloid leukocyte migration,21,3,0.3,217,0.00273,0.03276
+11,GO:0030595,leukocyte chemotaxis,27,3,0.38,318,0.00569,0.07598
+12,GO:0060326,cell chemotaxis,32,3,0.45,382,0.00923,0.11196
+13,GO:0006935,chemotaxis,62,4,0.88,281,0.00952,0.06361
+14,GO:0051153,regulation of striated muscle cell diffe...,11,2,0.16,1082,0.0097,0.6654
+15,GO:2000401,regulation of lymphocyte migration,11,2,0.16,779,0.0097,0.38884
+16,GO:0042330,taxis,63,4,0.89,316,0.01008,0.07438
+17,GO:0072678,T cell migration,12,2,0.17,526,0.01154,0.18852
+18,GO:0051130,positive regulation of cellular componen...,103,5,1.46,1760,0.01183,0.97577
+19,GO:0007186,G protein-coupled receptor signaling pat...,73,4,1.03,152,0.01681,0.01374
+20,GO:0002687,positive regulation of leukocyte migrati...,16,2,0.23,718,0.02028,0.33552
+21,GO:0034612,response to tumor necrosis factor,44,3,0.62,253,0.02213,0.04712
+22,GO:0040011,locomotion,166,6,2.35,1078,0.02241,0.66362
+23,GO:0051147,regulation of muscle cell differentiatio...,17,2,0.24,1418,0.0228,0.85771
+24,GO:0072676,lymphocyte migration,17,2,0.24,286,0.0228,0.06454
+25,GO:0006812,cation transport,80,4,1.13,1744,0.02291,0.97299
+26,GO:0071346,cellular response to interferon-gamma,18,2,0.26,119,0.02543,0.00714
+27,GO:0006955,immune response,227,7,3.22,1,0.02937,6.5E-07
+28,GO:0072511,divalent inorganic cation transport,49,3,0.69,1494,0.02943,0.89536
+29,GO:0006928,movement of cell or subcellular componen...,180,6,2.55,937,0.03233,0.56747
+30,GO:0006954,inflammatory response,90,4,1.28,146,0.03377,0.01196

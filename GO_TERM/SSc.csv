@@ -1,0 +1,61 @@
+Unnamed: 0,GO_ID,Term,Annotated,Significant,Expected,Rank in KS,classic,KS
+1,GO:0030593,neutrophil chemotaxis,11,3,0.16,194,0.00037,0.02545
+2,GO:0050900,leukocyte migration,50,5,0.71,497,0.00045999999999999996,0.17168
+3,GO:0070098,chemokine-mediated signaling pathway,12,3,0.17,210,0.00049,0.030739999999999996
+4,GO:0071621,granulocyte chemotaxis,12,3,0.17,223,0.00049,0.03702
+5,GO:1990868,response to chemokine,12,3,0.17,211,0.00049,0.030739999999999996
+6,GO:1990869,cellular response to chemokine,12,3,0.17,212,0.00049,0.030739999999999996
+7,GO:1990266,neutrophil migration,13,3,0.18,241,0.00063,0.04437
+8,GO:0097530,granulocyte migration,14,3,0.2,283,0.0008,0.06422
+9,GO:0034341,response to interferon-gamma,20,3,0.28,66,0.00236,0.0008300000000000001
+10,GO:0097529,myeloid leukocyte migration,21,3,0.3,217,0.0027300000000000002,0.032760000000000004
+11,GO:0030595,leukocyte chemotaxis,27,3,0.38,318,0.00569,0.07597999999999999
+12,GO:0060326,cell chemotaxis,32,3,0.45,382,0.00923,0.11195999999999999
+13,GO:0006935,chemotaxis,62,4,0.88,281,0.00952,0.06361
+14,GO:0051153,regulation of striated muscle cell diffe...,11,2,0.16,1082,0.0097,0.6654
+15,GO:2000401,regulation of lymphocyte migration,11,2,0.16,779,0.0097,0.38884
+16,GO:0042330,taxis,63,4,0.89,316,0.01008,0.07438
+17,GO:0072678,T cell migration,12,2,0.17,526,0.01154,0.18852
+18,GO:0051130,positive regulation of cellular componen...,103,5,1.46,1760,0.01183,0.97577
+19,GO:0007186,G protein-coupled receptor signaling pat...,73,4,1.03,152,0.01681,0.01374
+20,GO:0002687,positive regulation of leukocyte migrati...,16,2,0.23,718,0.02028,0.33552
+21,GO:0034612,response to tumor necrosis factor,44,3,0.62,253,0.02213,0.04712
+22,GO:0040011,locomotion,166,6,2.35,1078,0.02241,0.66362
+23,GO:0051147,regulation of muscle cell differentiatio...,17,2,0.24,1418,0.0228,0.8577100000000001
+24,GO:0072676,lymphocyte migration,17,2,0.24,286,0.0228,0.06454
+25,GO:0006812,cation transport,80,4,1.13,1744,0.02291,0.9729899999999999
+26,GO:0071346,cellular response to interferon-gamma,18,2,0.26,119,0.02543,0.0071400000000000005
+27,GO:0006955,immune response,227,7,3.22,1,0.02937,6.5e-07
+28,GO:0072511,divalent inorganic cation transport,49,3,0.69,1494,0.02943,0.89536
+29,GO:0006928,movement of cell or subcellular componen...,180,6,2.55,937,0.032330000000000005,0.56747
+30,GO:0006954,inflammatory response,90,4,1.28,146,0.03377,0.01196
+1,GO:0022610,biological adhesion,457,92,38.4,49,1.2e-16,5.599999999999999e-10
+2,GO:0007155,cell adhesion,453,91,38.06,53,2.1e-16,8.699999999999999e-10
+3,GO:0032501,multicellular organismal process,2287,276,192.16,7,4.6e-16,1.5e-15
+4,GO:0030198,extracellular matrix organization,152,46,12.77,1,2.2e-15,1.8e-19
+5,GO:0043062,extracellular structure organization,152,46,12.77,2,2.2e-15,1.8e-19
+6,GO:0040011,locomotion,623,108,52.35,32,1.1e-14,5.4e-11
+7,GO:0016477,cell migration,523,95,43.94,23,3.5e-14,1.9e-11
+8,GO:0006928,movement of cell or subcellular componen...,724,118,60.83,25,5.1e-14,2.2e-11
+9,GO:0048870,cell motility,565,97,47.47,33,6.999999999999999e-13,6.199999999999999e-11
+10,GO:0051674,localization of cell,565,97,47.47,34,6.999999999999999e-13,6.199999999999999e-11
+11,GO:0048856,anatomical structure development,1983,238,166.62,4,1.6e-12,7.4e-17
+12,GO:0007275,multicellular organism development,1810,221,152.08,3,4e-12,9.300000000000001e-18
+13,GO:0048869,cellular developmental process,1420,183,119.31,19,1.1e-11,2.2e-12
+14,GO:0032502,developmental process,2155,250,181.07,9,1.5e-11,3.5e-15
+15,GO:0048731,system development,1632,202,137.13,8,2.2e-11,2.1e-15
+16,GO:0008284,positive regulation of cell population p...,310,62,26.05,62,3.0999999999999996e-11,9.3e-09
+17,GO:0030154,cell differentiation,1386,178,116.46,16,3.5e-11,1.6e-12
+18,GO:0042127,regulation of cell population proliferat...,545,90,45.79,24,5.4e-11,2.1e-11
+19,GO:0030334,regulation of cell migration,351,65,29.49,84,3.2000000000000003e-10,2e-07
+20,GO:0048646,anatomical structure formation involved ...,400,70,33.61,94,8.400000000000001e-10,8.4e-07
+21,GO:2000145,regulation of cell motility,370,66,31.09,76,1.2e-09,7.5e-08
+22,GO:0040012,regulation of locomotion,379,67,31.84,67,1.3e-09,2.2999999999999998e-08
+23,GO:0009653,anatomical structure morphogenesis,974,132,81.84,14,1.3e-09,7.699999999999999e-14
+24,GO:0001944,vasculature development,286,55,24.03,50,2.0999999999999998e-09,7.000000000000001e-10
+25,GO:0072358,cardiovascular system development,290,55,24.37,57,3.5e-09,1.9e-09
+26,GO:0051270,regulation of cellular component movemen...,392,67,32.94,71,5.6000000000000005e-09,4.3e-08
+27,GO:0030155,regulation of cell adhesion,244,47,20.5,155,3.2e-08,1.3000000000000001e-05
+28,GO:0051239,regulation of multicellular organismal p...,1106,140,92.93,21,3.9e-08,2.6000000000000002e-12
+29,GO:0006935,chemotaxis,216,43,18.15,109,4.8e-08,1.8000000000000001e-06
+30,GO:0042330,taxis,216,43,18.15,110,4.8e-08,1.8000000000000001e-06

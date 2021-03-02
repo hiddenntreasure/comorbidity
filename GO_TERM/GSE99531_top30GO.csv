@@ -1,0 +1,31 @@
+,GO_ID,Term,Annotated,Significant,Expected,Rank in KS,classic,KS
+1,GO:0032501,multicellular organismal process,1605,657,471,931,< 1e-30,0.56
+2,GO:0007154,cell communication,1577,642,462.78,1878,< 1e-30,0.86
+3,GO:0023052,signaling,1572,639,461.32,1851,< 1e-30,0.86
+4,GO:0050896,response to stimulus,2167,811,635.93,1543,< 1e-30,0.78
+5,GO:0051239,regulation of multicellular organismal p...,788,374,231.25,877,< 1e-30,0.53
+6,GO:0007166,cell surface receptor signaling pathway,856,396,251.2,1762,< 1e-30,0.84
+7,GO:0040011,locomotion,526,275,154.36,2751,< 1e-30,0.97
+8,GO:0007165,signal transduction,1467,596,430.5,2279,< 1e-30,0.92
+9,GO:0048731,system development,1145,490,336.01,1243,< 1e-30,0.68
+10,GO:0007275,multicellular organism development,1265,528,371.23,1025,< 1e-30,0.6
+11,GO:0006928,movement of cell or subcellular componen...,585,294,171.67,2795,< 1e-30,0.97
+12,GO:0032502,developmental process,1494,599,438.43,865,1E-30,0.52
+13,GO:0048856,anatomical structure development,1386,564,406.73,1183,3E-30,0.66
+14,GO:0009653,anatomical structure morphogenesis,680,325,199.55,1756,2.2E-29,0.84
+15,GO:0016477,cell migration,457,239,134.11,3426,4.1E-28,1
+16,GO:0051716,cellular response to stimulus,1814,688,532.33,2719,5.1E-28,0.96
+17,GO:0048870,cell motility,483,247,141.74,3220,3.7E-27,0.99
+18,GO:0051674,localization of cell,483,247,141.74,3221,3.7E-27,0.99
+19,GO:2000026,regulation of multicellular organismal d...,529,262,155.24,792,4.4E-26,0.49
+20,GO:0050793,regulation of developmental process,676,315,198.38,707,8E-26,0.43
+21,GO:0030154,cell differentiation,1008,429,295.81,1190,9.4E-26,0.66
+22,GO:0009888,tissue development,508,253,149.08,1542,1.4E-25,0.78
+23,GO:0048869,cellular developmental process,1026,433,301.09,1236,4.6E-25,0.68
+24,GO:0048513,animal organ development,860,376,252.37,1343,1.3E-24,0.72
+25,GO:0006959,humoral immune response,99,77,29.05,3223,7.4E-24,0.99
+26,GO:0035295,tube development,310,172,90.97,2017,1E-23,0.88
+27,GO:0007155,cell adhesion,378,197,110.93,1315,1.1E-22,0.71
+28,GO:0022610,biological adhesion,381,198,111.81,1352,1.3E-22,0.72
+29,GO:0002376,immune system process,943,398,276.73,1208,1.6E-22,0.67
+30,GO:0009605,response to external stimulus,741,328,217.45,3587,4.5E-22,1
