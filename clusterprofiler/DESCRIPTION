@@ -1,0 +1,51 @@
+Package: clusterProfiler
+Type: Package
+Title: statistical analysis and visualization of functional profiles for
+    genes and gene clusters
+Version: 4.1.1
+Authors@R: c(
+    person(given = "Guangchuang", family = "Yu",        email = "guangchuangyu@gmail.com",   role  = c("aut", "cre", "cph"), comment = c(ORCID = "0000-0002-6485-8781")),
+    person(given = "Li-Gen",      family = "Wang",      email = "reeganwang020@gmail.com",   role  = "ctb"),
+    person(given = "Erqiang",     family = "Hu",        email = "13766876214@163.com",       role = "ctb"),
+    person(given = "Meijun",      family = "Chen",      email = "mjchen1996@outlook.com",    role  = "ctb"),
+    person(given = "Giovanni",    family = "Dall'Olio", email = "giovanni.dallolio@upf.edu", role = "ctb",                   comment = "formula interface of compareCluster")
+		)
+Maintainer: Guangchuang Yu <guangchuangyu@gmail.com>
+Description: This package implements methods to analyze and visualize
+    functional profiles (GO and KEGG) of gene and gene clusters.
+Depends:
+    R (>= 3.5.0)
+Imports:
+    AnnotationDbi,
+    downloader,
+    DOSE (>= 3.13.1),
+    dplyr,
+    enrichplot (>= 1.9.3),
+    GO.db,
+    GOSemSim,
+    magrittr,
+    methods,
+    plyr,
+    qvalue,
+    rlang,
+    rvcheck,
+    stats,
+    tidyr,
+    utils
+Suggests:
+    AnnotationHub,
+    knitr,
+    rmarkdown,
+    org.Hs.eg.db,
+    prettydoc,
+    ReactomePA,
+    testthat
+VignetteBuilder: knitr
+ByteCompile: true
+License: Artistic-2.0
+URL: https://yulab-smu.top/biomedical-knowledge-mining-book/
+BugReports: https://github.com/GuangchuangYu/clusterProfiler/issues
+Packaged: NA
+biocViews: Annotation, Clustering, GeneSetEnrichment, GO, KEGG,
+    MultipleComparison, Pathways, Reactome, Visualization
+RoxygenNote: 7.1.1
