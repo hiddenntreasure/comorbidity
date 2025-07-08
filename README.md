@@ -1,7 +1,6 @@
----
-title: "Comorbidity Analysis of Systemic Sclerosis and Cancer using Bioinformatics"
-output: github_document
----
+
+# title: "Comorbidity Analysis of Systemic Sclerosis and Cancer using Bioinformatics"
+
 
 # 📘 Overview
 
