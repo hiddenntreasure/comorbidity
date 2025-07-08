@@ -1,5 +1,5 @@
 
-# title: "Comorbidity Analysis of Systemic Sclerosis and Cancer using Bioinformatics"
+# Title: "Comorbidity Analysis of Systemic Sclerosis and Cancer using Bioinformatics"
 
 
 # 📘 Overview
